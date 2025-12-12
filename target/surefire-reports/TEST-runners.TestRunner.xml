@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runners.TestRunner" time="3.947" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation/target/test-classes:/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation/target/classes:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-java/7.33.0/cucumber-java-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-core/7.33.0/cucumber-core-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-gherkin/7.33.0/cucumber-gherkin-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.33.0/cucumber-gherkin-messages-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/gherkin/36.1.0/gherkin-36.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/messages/30.1.0/messages-30.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/pretty-formatter/2.4.1/pretty-formatter-2.4.1.jar:/Users/urvashipandey/.m2/repository/io/cucumber/query/14.7.0/query-14.7.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/teamcity-formatter/0.2.0/teamcity-formatter-0.2.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/testng-xml-formatter/0.7.0/testng-xml-formatter-0.7.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/usage-formatter/0.1.0/usage-formatter-0.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/tag-expressions/8.1.0/tag-expressions-8.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-expressions/18.0.1/cucumber-expressions-18.0.1.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-json-formatter/0.3.2/cucumber-json-formatter-0.3.2.jar:/Users/urvashipandey/.m2/repository/io/cucumber/datatable/7.33.0/datatable-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-plugin/7.33.0/cucumber-plugin-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/docstring/7.33.0/docstring-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/html-formatter/22.2.0/html-formatter-22.2.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/junit-xml-formatter/0.11.0/junit-xml-formatter-0.11.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/ci-environment/12.0.0/ci-environment-12.0.0.jar:/Users/urvashipandey/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-junit/7.33.0/cucumber-junit-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/rest-assured/5.5.6/rest-assured-5.5.6.jar:/Users/urvashipandey/.m2/repository/org/apache/groovy/groovy/4.0.22/groovy-4.0.22.jar:/Users/urvashipandey/.m2/repository/org/apache/groovy/groovy-xml/4.0.22/groovy-xml-4.0.22.jar:/Users/urvashipandey/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/urvashipandey/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/urvashipandey/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/urvashipandey/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/urvashipandey/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/urvashipandey/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/urvashipandey/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/json-path/5.5.6/json-path-5.5.6.jar:/Users/urvashipandey/.m2/repository/org/apache/groovy/groovy-json/4.0.22/groovy-json-4.0.22.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/rest-assured-common/5.5.6/rest-assured-common-5.5.6.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/xml-path/5.5.6/xml-path-5.5.6.jar:/Users/urvashipandey/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-testng/7.14.0/cucumber-testng-7.14.0.jar:/Users/urvashipandey/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/urvashipandey/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/urvashipandey/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/urvashipandey/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:/Users/urvashipandey/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="user.timezone" value="Australia/Sydney"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="AU"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/25.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation/target/surefire/surefirebooter-20251211154850982_3.jar /Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation/target/surefire 2025-12-11T15-48-50_879-jvmRun1 surefire-20251211154850982_1tmp surefire_0-20251211154850982_2tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation/target/test-classes:/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation/target/classes:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-java/7.33.0/cucumber-java-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-core/7.33.0/cucumber-core-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-gherkin/7.33.0/cucumber-gherkin-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.33.0/cucumber-gherkin-messages-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/gherkin/36.1.0/gherkin-36.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/messages/30.1.0/messages-30.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/pretty-formatter/2.4.1/pretty-formatter-2.4.1.jar:/Users/urvashipandey/.m2/repository/io/cucumber/query/14.7.0/query-14.7.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/teamcity-formatter/0.2.0/teamcity-formatter-0.2.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/testng-xml-formatter/0.7.0/testng-xml-formatter-0.7.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/usage-formatter/0.1.0/usage-formatter-0.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/tag-expressions/8.1.0/tag-expressions-8.1.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-expressions/18.0.1/cucumber-expressions-18.0.1.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-json-formatter/0.3.2/cucumber-json-formatter-0.3.2.jar:/Users/urvashipandey/.m2/repository/io/cucumber/datatable/7.33.0/datatable-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-plugin/7.33.0/cucumber-plugin-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/docstring/7.33.0/docstring-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/html-formatter/22.2.0/html-formatter-22.2.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/junit-xml-formatter/0.11.0/junit-xml-formatter-0.11.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/ci-environment/12.0.0/ci-environment-12.0.0.jar:/Users/urvashipandey/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-junit/7.33.0/cucumber-junit-7.33.0.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/rest-assured/5.5.6/rest-assured-5.5.6.jar:/Users/urvashipandey/.m2/repository/org/apache/groovy/groovy/4.0.22/groovy-4.0.22.jar:/Users/urvashipandey/.m2/repository/org/apache/groovy/groovy-xml/4.0.22/groovy-xml-4.0.22.jar:/Users/urvashipandey/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/urvashipandey/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/urvashipandey/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/urvashipandey/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/urvashipandey/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/urvashipandey/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/urvashipandey/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/json-path/5.5.6/json-path-5.5.6.jar:/Users/urvashipandey/.m2/repository/org/apache/groovy/groovy-json/4.0.22/groovy-json-4.0.22.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/rest-assured-common/5.5.6/rest-assured-common-5.5.6.jar:/Users/urvashipandey/.m2/repository/io/rest-assured/xml-path/5.5.6/xml-path-5.5.6.jar:/Users/urvashipandey/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar:/Users/urvashipandey/.m2/repository/io/cucumber/cucumber-testng/7.14.0/cucumber-testng-7.14.0.jar:/Users/urvashipandey/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar:/Users/urvashipandey/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/urvashipandey/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/urvashipandey/.m2/repository/org/webjars/jquery/3.6.1/jquery-3.6.1.jar:/Users/urvashipandey/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/urvashipandey"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/25.0.1/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation/target/surefire/surefirebooter-20251211154850982_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="25.0.1"/>
+    <property name="user.name" value="urvashipandey"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="15.7.2"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/urvashipandey/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/v_/9hd62tl969g334v0bgkl0hgm0000gn/T/"/>
+    <property name="java.version" value="25.0.1"/>
+    <property name="user.dir" value="/Users/urvashipandey/Desktop/RevenueNSW/task3-api-automation"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/urvashipandey/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="25.0.1"/>
+    <property name="stdin.encoding" value="UTF-8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="runScenario[&quot;Validate author information using data table&quot;, &quot;Verify author details from OpenLibrary API&quot;](1)" classname="runners.TestRunner" time="2.848">
+    <system-out><![CDATA[
+&amp#27;[1mScenario Outline:&amp#27;[22m Validate author information using data table                  &amp#27;[90m# src/test/java/features/authors.feature:10&amp#27;[39m
+  &amp#27;[32m✔&amp#27;[39m &amp#27;[32m&amp#27;[1mGiven &amp#27;[22mI hit the OpenLibrary author endpoint &amp#27;[1m"OL1A"&amp#27;[22m&amp#27;[39m                          &amp#27;[90m# steps.AuthorSteps.i_hit_the_api(java.lang.String)&amp#27;[39m
+  &amp#27;[32m✔&amp#27;[39m &amp#27;[32m&amp#27;[1mThen &amp#27;[22mthe personal_name should be &amp#27;[1m"Sachi Rautroy"&amp#27;[22m&amp#27;[39m                            &amp#27;[90m# steps.AuthorSteps.verify_personal_name(java.lang.String)&amp#27;[39m
+  &amp#27;[32m✔&amp#27;[39m &amp#27;[32m&amp#27;[1mAnd &amp#27;[22mthe response should contain alternate name &amp#27;[1m"Yugashrashta Sachi Routray"&amp#27;[22m&amp#27;[39m &amp#27;[90m# steps.AuthorSteps.verify_alternate_name(java.lang.String)&amp#27;[39m
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+</testsuite>
