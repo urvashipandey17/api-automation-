@@ -13,7 +13,7 @@ import java.util.List;
 public class AuthorSteps {
 
     private Response response;
-
+    //This is Get endpoint for Author details
     @Given("I hit the OpenLibrary author endpoint {string}")
     public void i_hit_the_api(String authorId) {
         String url = "https://openlibrary.org/authors/" + authorId + ".json";
